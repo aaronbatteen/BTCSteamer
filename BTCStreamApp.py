@@ -59,7 +59,8 @@ def animatebtc(i): ### Currently useing BTC-e exchange, which is dead. Will have
     data = pd.DataFrame(data, index = [0])
     data['timestamp'] = dt.datetime.now()
     
-    """    
+    """ 
+    This will change as soon as I get my DataFrame above sorted out.
     USD_rate = data['USD']['rate_float']
     USD_time = data['USD']['rate_float']
     
