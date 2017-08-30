@@ -3,10 +3,6 @@
 Created on Thu Aug 17 11:59:11 2017
 
 @author: vabattee
-args= variables
-kwargs = "key word" args, or dictionaries
-
-
 """
 ##### Header for importing modules, etc #####
 # Tkinter imports
